@@ -37,7 +37,7 @@ h5 {
 }
 
 .content {
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: Raleway;
   font-size: 18px;
   line-height: 1.5;
   color: #FFF;
@@ -358,7 +358,7 @@ td, th {
 }
 
 .soknad-knapp {
-  width: 290px;
+  width: 320px;
   margin: 0 auto 0 auto;
 }
 
